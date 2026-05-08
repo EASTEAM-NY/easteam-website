@@ -1,0 +1,6 @@
+.DS_Store
+.claude/settings.local.json
+images/Mask group*.png
+images/hf_*.png
+images/contact-banner.jpg.icloud
+node_modules/
